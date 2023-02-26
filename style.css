@@ -64,6 +64,7 @@ hr{
 .image-equilibrium{
     display: block;
     border-radius: 15px;
+    width: 100%;
 }
 .overlay {
     position: absolute;
@@ -110,4 +111,7 @@ hr{
 }
 .foot{
     margin-bottom: 10px;
+}
+.group-numbers{
+    width: 100%;
 }
