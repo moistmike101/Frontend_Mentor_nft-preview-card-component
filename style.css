@@ -24,6 +24,7 @@ h1{
     font-size: 18px;
     font-weight: 600;
     color: hsl(0, 0%, 100%);
+    margin-top: 20px;
 }
   h1:hover {
     color: hsl(178, 100%, 50%);
@@ -36,6 +37,7 @@ td{
 }
 hr{
     border: 1px solid hsl(215, 32%, 27%);
+    margin: 20px 0px;
 }
 .text{
     text-align: left;
@@ -88,6 +90,7 @@ hr{
 .image-avatar{
     border: 1px solid hsl(0, 0%, 100%);
     border-radius: 100px;
+    
 }
 .person{
     color: hsl(0, 0%, 100%)
@@ -104,4 +107,7 @@ hr{
     color: hsl(178, 100%, 50%);
     cursor: pointer;
     transition: 0.5s;
+}
+.foot{
+    margin-bottom: 10px;
 }
