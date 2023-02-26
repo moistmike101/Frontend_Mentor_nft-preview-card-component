@@ -103,6 +103,7 @@ hr{
 }
 .eth{
     padding-left: 5px;
+    color: hsl(178, 100%, 50%);
 }
 .eth:hover{
     color: hsl(178, 100%, 50%);
